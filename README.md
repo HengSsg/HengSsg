@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm study DevOps! 
+I'm Jounior DevOps Engineer !
+
+Nice to meet you!
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
-<!--
+
 **HengSgg/HengSgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
