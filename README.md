@@ -1,6 +1,6 @@
 ## 💁🏻‍♂️ Hi there!  
   
-I'm Jounior DevOps Engineer. And I love automation.
+I'm Jounior Software Engineer. And I love automation.
 
 ## 📞 My_Information
 - E-mail: dnflekf2748@gmail.com
