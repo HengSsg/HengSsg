@@ -8,7 +8,7 @@ I'm Jounior Software Engineer. And I love automation.
 
 
 ## 🔧 stack
-
+<img alt="flutter" src="https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/><img alt="flutter" src="https://img.shields.io/badge/NestJs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/><br>
 <img alt="js" src
 ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="aws" src
 ="https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/> <img alt="node.js" src
