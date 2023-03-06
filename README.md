@@ -4,7 +4,7 @@ I'm Jounior Cross Platform App developer. And I love automation
 
 ## 📞 My_Information
 - E-mail: dnflekf2748@gmail.com
-- Blog: [Velog](https://velog.io/@dnflekf2748)
+
 
 
 ## 🔧 stack
