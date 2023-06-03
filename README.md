@@ -6,7 +6,7 @@ I'm Jounior server & App developer. And I love automation
 - E-mail: dnflekf2748@gmail.com
 
 
-
+      
 ## 🔧 stack
 <img alt="flutter" src="https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/><img alt="flutter" src="https://img.shields.io/badge/NestJs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/><br>
 <img alt="js" src
